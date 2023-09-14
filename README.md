@@ -1,2 +1,2 @@
 # TELLEVOAPPS
-completo
+Creador Jorge Ceballos Segura
